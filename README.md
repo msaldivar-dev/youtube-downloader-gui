@@ -1,5 +1,10 @@
 # 🎬 YouTube Downloader GUI
 
+![Versión](https://img.shields.io/github/v/release/msaldivar-dev/youtube-downloader-gui)
+![Estado](https://img.shields.io/badge/status-activo-brightgreen.svg)
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Licencia](https://img.shields.io/badge/license-MIT-purple.svg)
+
 Aplicación de escritorio en Python con interfaz moderna para descargar videos de YouTube en diferentes calidades. Ideal para uso personal y educativo, como guardar tus propios videos o contenidos accesibles públicamente.
 
 ---
