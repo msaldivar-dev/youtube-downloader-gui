@@ -16,7 +16,7 @@ Aplicación de escritorio en Python con interfaz moderna para descargar videos d
 - Descarga video y audio combinados en formato MP4
 - Detección automática de enlaces válidos desde el portapapeles
 - Barra de progreso y mensajes de estado interactivos
-- Interfaz moderna con ttkbootstrap
+- Interfaz ttkbootstrap
 
 ---
 
